@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sujit Memane , this is my [Twitter Account](https://twitter.com/iAmSujitMemane)
+I am Sujit Memane(Web Developer) , this is my [Twitter Account](https://twitter.com/iAmSujitMemane)
 <!--
 **sujitmemane/sujitmemane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am Sujit Memane , this is my [Twitter Account](https://twitter.com/iAmSujitMemane)
