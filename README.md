@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
-- 📝 I regularly write articles on [Web Development](Web Development)
+- 📝 I regularly write articles on [Sujit Memane Blog]([Web Development](https://sujitmemane.hashnode.dev/)
 
 - 💬 Ask me about **Web Development**
 
