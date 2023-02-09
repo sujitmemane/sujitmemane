@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamsujitmemane" target="blank"><img src="https://img.shields.io/twitter/follow/iamsujitmemane?logo=twitter&style=for-the-badge" alt="iamsujitmemane" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Node JS , Express JS , Mongo DB **
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
