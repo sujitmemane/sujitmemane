@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **officialsujitmemane@gmail.com**
 
-- ⚡ Fun fact **I have good sense of Humor**
+- ⚡ Fun fact **Some times I forgot my Name**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
