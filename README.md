@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./assets/banner.svg" alt="sujit terminal banner" width="760"/>
-
-</div>
 
 <br/>
 
