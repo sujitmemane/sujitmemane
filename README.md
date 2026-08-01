@@ -1,30 +1,108 @@
-# 💫 About Me:
-- 🔭 I’m currently working on React Js and Next Js
-- 🌱 I’m currently learning Front-end Frameworks
-- 👯 I’m looking to collaborate on **Web Development Project**
-- 📝 I regularly write articles on [Sujit Memane Blog]([Web Development](https://sujitmemane.hashnode.dev/))
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me **[officialsujitmemane@gmail.com](mailto:officialsujitmemane@gmail.com)**
-- ⚡ Fun fact **Some times I forgot my Name**
+<div align="center">
 
+<img src="./assets/banner.svg" alt="sujit terminal banner" width="760"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujitmemane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-memane-4704b01b0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iAmSujitMemane) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thesujitmemane) 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sujitmemane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sujitmemane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujitmemane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=iAmSujitMemane)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+```ts
+class Sujit implements Developer {
+  role      = "SDE-1 @ Auragold";
+  building  = "Tovix — a microlearning app (stealth · ships in ~30 days)";
+  stack     = {
+    ship:     ["TypeScript", "React", "Next.js", "React Native"],
+    leveling: ["Python", "backend", "applied ML", "infra"],
+  };
+  mission   = "build and ship my own SaaS";
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  status(): string {
+    return this.building ? "heads down, building" : "open to ideas";
+  }
+}
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=sujitmemane&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+$ git log --oneline --graph --decorate career
+
+* stealth   building Tovix — microlearning, not public yet, dropping soon
+* current   SDE-1 @ Auragold — shipping product in TypeScript, web + mobile
+* learning  going deep on Python — backend, applied work, infra
+* endgame   launch my own SaaS
+```
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**shipping with**
+
+```ts
+import { TypeScript, React } from "daily-driver";
+import { NextJS, ReactNative } from "web-and-mobile";
+import { Redux, TailwindCSS } from "the-usual-suspects";
+```
+
+</td>
+<td valign="top" width="50%">
+
+**leveling up in**
+
+```py
+from python import backend, applied, infra
+from tools import FastAPI, Docker, AWS
+
+still_learning = True
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```bash
+$ cat currently-reading.txt
+
+[Book / Course Name 1]      — chapter 4 of 12
+[Book / Course Name 2]      — in progress
+[Docs / Resource Name]      — reference, ongoing
+```
+<sub>swap these in for whatever you're actually reading right now</sub>
+
+<br/>
+
+```bash
+$ ls -la projects/
+
+drwxr-xr-x  tovix/    microlearning app · stealth · shipping in ~30 days
+```
+
+<table align="center">
+<tr>
+<td valign="top" width="100%">
+
+**Tovix** — a microlearning app, currently in stealth.
+Built end-to-end on the TypeScript stack (web + mobile). More coming once it's live.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+```
+$ cat contact.txt
+mail     → officialsujitmemane@gmail.com
+linkedin → linkedin.com/in/sujit-memane-4704b01b0
+twitter  → @iAmSujitMemane
+youtube  → @thesujitmemane
+```
+
+<div align="center">
+<sub>Tovix is currently in stealth. Come back in ~30 days. 👀</sub>
+</div>
