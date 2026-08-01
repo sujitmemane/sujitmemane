@@ -1,4 +1,5 @@
 
+<img src="./assets/mascot.png" width="200" align="right" />
 
 <br/>
 
@@ -10,7 +11,18 @@ class Sujit implements Developer {
     ship:     ["TypeScript", "React", "Next.js", "React Native"],
     leveling: ["Python", "backend", "applied ML", "infra"],
   };
-  mission   = "build and ship my own SaaS";
+ mission = "build and ship my own apps, products, and SaaS";
+
+  quirks = {
+    thermostat: "16°C AC + a blanket, non-negotiable — my brain only compiles when I'm basically in cryosleep",
+    bookmarks: () => {
+      const saved = 400;
+      const read = 3;
+      return `${saved} tabs bookmarked "for later" — later has not arrived`;
+    },
+    lostAndFound: "once used my own phone's flashlight to search for... my phone",
+    memoryLeak: "the 'where did I keep that' bug has no patch yet",
+  };
 
   status(): string {
     return this.building ? "heads down, building" : "open to ideas";
